@@ -1,4 +1,5 @@
 Uber Supply-Demand Gap Analysis :
+
 A complete end-to-end analysis of Uber’s supply–demand gap using SQL, Python, Excel Dashboard.
 
 This projects analyse Uber ride request data from July 11-16,2016 using:
