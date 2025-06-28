@@ -34,4 +34,6 @@ Based on the SQL queries here are the insights uncovered:
 - Python EDA (Jupyter Notebook)
 - Excel Dashboard
 
+👤 Author
+Sejal Rajore | Labmentix Internship Project
 
