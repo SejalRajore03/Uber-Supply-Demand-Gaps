@@ -35,5 +35,6 @@ Based on the SQL queries here are the insights uncovered:
 - Excel Dashboard
 
 👤 Author
+
 Sejal Rajore | Labmentix Internship Project
 
